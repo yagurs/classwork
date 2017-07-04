@@ -1,0 +1,14 @@
+a:hover {
+    background-color: magenta;
+}
+
+button {
+  background-color: white;
+  border: none;
+  color: pink;
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
